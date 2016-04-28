@@ -12,6 +12,8 @@ The purpose of this repository is to collect resources relevant to those interes
 
 - Monthly calls in 2016 about open government and open education: information on [SPARC website](http://sparcopen.org/our-work/opengoveducation/).
 
+- [Skills Commons](https://www.skillscommons.org/): take advantage of $2 billion worth of open educational resources created through the U.S. government's [TAACCCT program](https://doleta.gov/taaccct/). Note: the resources are being released gradually over the period of several years.
+
 ## License
 
 [![CC-BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
